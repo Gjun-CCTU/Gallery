@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTheme">
+        <attr name="android:editTextBackground"></attr>
+        <attr name="android:galleryItemBackground"></attr>
+        <attr name="android:galleryStyle"></attr>
+    </declare-styleable>
+
+</resources>
